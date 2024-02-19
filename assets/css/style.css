@@ -411,6 +411,7 @@ section {
 
 .section-bg {
   background-color: #f2f9f8;
+  padding: 60px 0;
 }
 
 .section-title {
@@ -619,6 +620,11 @@ section {
   opacity: 1;
   top: calc(50% - 30px);
 }
+
+.portfolio .section-bg{
+  padding: 60xp,0;
+}
+
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions
